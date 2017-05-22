@@ -1,0 +1,8 @@
+{
+  "name": "shared-components-test",
+  "version": "0.1.0",
+  "description": "A test for shared components",
+  "main": "index.js",
+  "repository": "https://github.com/sasha-travelbytes/shared-components-test",
+  "private": true,
+}
