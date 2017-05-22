@@ -3,6 +3,14 @@
   "version": "0.1.0",
   "description": "A test for shared components",
   "main": "index.js",
+  "module": "index.js",
   "repository": "https://github.com/sasha-travelbytes/shared-components-test",
-  "private": true
+  "private": true,
+  "scripts": {
+    "build": "webpack --config webpack.config.js"
+  },
+  "devDependencies": {
+    "babel-loader": "^7.0.0",
+    "webpack": "^2.5.1"
+  }
 }
