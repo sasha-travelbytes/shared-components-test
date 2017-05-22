@@ -4,5 +4,5 @@
   "description": "A test for shared components",
   "main": "index.js",
   "repository": "https://github.com/sasha-travelbytes/shared-components-test",
-  "private": true,
+  "private": true
 }
